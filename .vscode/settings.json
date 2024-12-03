@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Game 1 - Envisage XR.sln"
+    "dotnet.defaultSolution": "EnvisageXR-Game1.sln"
 }
